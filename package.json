@@ -1,0 +1,23 @@
+{
+  "name": "create-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladlendv/create-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladlendv/create-rest-api/issues"
+  },
+  "homepage": "https://github.com/vladlendv/create-rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
